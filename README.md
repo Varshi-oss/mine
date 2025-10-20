@@ -21,13 +21,7 @@ Authentication	JWT, bcrypt
 Deployment	Vercel (Frontend), Render (Backend)
 API Testing	Postman
 ⚙️ Setup Instructions
-1. Clone the Repository
-bash
 
-
-Copy
-git clone https://github.com/your-username/technician-booking-system.git
-cd technician-booking-system
 2. Install Dependencies
 Backend
 bash
